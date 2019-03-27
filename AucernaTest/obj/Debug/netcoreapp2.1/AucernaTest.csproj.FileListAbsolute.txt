@@ -1,0 +1,11 @@
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\bin\Debug\netcoreapp2.1\AucernaTest.deps.json
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\bin\Debug\netcoreapp2.1\AucernaTest.runtimeconfig.json
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\bin\Debug\netcoreapp2.1\AucernaTest.runtimeconfig.dev.json
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\bin\Debug\netcoreapp2.1\AucernaTest.dll
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\bin\Debug\netcoreapp2.1\AucernaTest.pdb
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\obj\Debug\netcoreapp2.1\AucernaTest.csprojAssemblyReference.cache
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\obj\Debug\netcoreapp2.1\AucernaTest.csproj.CoreCompileInputs.cache
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\obj\Debug\netcoreapp2.1\AucernaTest.AssemblyInfoInputs.cache
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\obj\Debug\netcoreapp2.1\AucernaTest.AssemblyInfo.cs
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\obj\Debug\netcoreapp2.1\AucernaTest.dll
+C:\Courses\Ronny\C#\AucernaTest\AucernaTest\obj\Debug\netcoreapp2.1\AucernaTest.pdb
